@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a Computer Science and Engineering student with a strong academic interest in programming, data structures, and computational problem solving. My coursework and practical exposure have helped me develop a solid foundation in core computer science subjects including Algorithms, Operating Systems, and Software Development.<br><br>I am currently focused on strengthening my understanding of algorithmic design, system-level concepts, and structured programming using languages such as Java. Alongside theoretical learning, I actively engage in implementing concepts through academic projects and problem-solving exercises to enhance logical thinking and technical accuracy.<br><br>I am particularly interested in exploring areas that combine analytical reasoning with real-world application, and I aim to continuously improve my technical proficiency through consistent practice and structured learning.<br><br>I value discipline, clarity of thought, and systematic problem-solving, and I aspire to apply these principles in academic projects, internships, and future professional opportunities in the field of computer science.
+# 👾 About Me:
+I am a Computer Science and Engineering student with a strong academic interest in programming, data structures, and computational problem solving. My coursework and practical exposure have helped me develop a solid foundation in core computer science subjects including Algorithms, Operating Systems, and Software Development.
 
 
 ## 🌐 Socials:
