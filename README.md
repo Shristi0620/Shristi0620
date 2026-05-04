@@ -1,5 +1,5 @@
 # 👾 About Me:
-I am a Computer Science and Engineering student with a strong academic interest in programming, data structures, and computational problem solving. My coursework and practical exposure have helped me develop a solid foundation in core computer science subjects including Algorithms, Operating Systems, and Software Development.
+Backend Engineer & CSE Student specialized in Java Spring Boot, dedicated to building high-concurrency REST APIs and optimized system architectures that turn complex data into scalable, real-world solutions.
 
 
 ## 🌐 Socials:
