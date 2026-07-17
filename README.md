@@ -12,7 +12,7 @@ Backend Engineer & CSE Student specialized in Java Spring Boot, dedicated to bui
 ![](https://nirzak-streak-stats.vercel.app/?user=Shristi0620&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi0620&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -21,4 +21,4 @@ Backend Engineer & CSE Student specialized in Java Spring Boot, dedicated to bui
 ---
 [![](https://visitcount.itsvg.in/api?id=Shristi0620&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created  -->
